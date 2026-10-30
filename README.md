@@ -6,5 +6,5 @@ I enjoy making tools that make my working life easier — Swift on the desktop, 
 Oracle Cloud and Claude Code tooling/plugins. The pinned repos below are all exactly that.
 
 <!-- TRAFFIC:START -->
-Across these tools: 3,073 clones, 2,278 views, 391 release downloads since March 2026.
+Across these tools: 3,083 clones, 2,294 views, 393 release downloads since March 2026.
 <!-- TRAFFIC:END -->
